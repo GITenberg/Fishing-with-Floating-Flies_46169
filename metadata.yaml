@@ -1,0 +1,28 @@
+_repo: Fishing-with-Floating-Flies_46169
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46169-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Camp, Samuel G. (Samuel Granger)
+    alias: Camp, Samuel Granger
+    birthdate: 1877
+    gutenberg_agent_id: '43644'
+    url: http://www.gutenberg.org/2009/agents/43644
+description: ''
+gutenberg_issued: '2014-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46169'
+  lccn: '13011507'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Outing handbooks
+subjects:
+- !lcc 'SH'
+- !lcsh 'Trout fishing'
+title: Fishing with Floating Flies
+url: http://www.gutenberg.org/ebooks/46169
